@@ -922,7 +922,7 @@ body {
 .sidebar-menu {
     display: table-cell;
     position: relative;
-    width: 250px;
+    width: 200px;
     background: #2c2e2f;
     z-index: 1
 }
@@ -961,8 +961,8 @@ body {
 }
 
 .sidebar-menu .main-menu {
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
     list-style: none
